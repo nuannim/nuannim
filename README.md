@@ -12,7 +12,7 @@
 <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nuannim) -->
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuannim&show_icons=true&locale=en&layout=compact" alt="nuannim" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuannim&show_icons=true&locale=en&layout=compact" alt="nuannim" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuannim&show_icons=true&locale=en" alt="nuannim" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuannim&" alt="nuannim" />
 </p>
