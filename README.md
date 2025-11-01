@@ -7,6 +7,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuannim&show_icons=true&locale=en" alt="nuannim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuannim&" alt="nuannim" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuannim&show_icons=true&theme=radical)
 
 
 
